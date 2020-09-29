@@ -1,7 +1,7 @@
 ---
 title: "WUP_04"
 author: "Kathleen Giba!"
-date: "fall 2020"
+date: "September 2020"
 output:
   html_document:
     df_print: paged
