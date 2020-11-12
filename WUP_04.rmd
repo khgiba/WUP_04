@@ -69,4 +69,4 @@ plot(TukeyHSD(model1),las=2)
 
 # Discussion and Conclusion
 
-The P value from the analysis of variance was 0.000236 <0.05 therefore we reject the null hypothesis. The tukeyhsd test shows that high school is different than graduate. The rest show no significant differences. 
+The P value from the analysis of variance was 0.000236 <0.05 therefore we reject the null hypothesis. The tukey hsd test shows that high school is different than graduate and also that LT high school is different from graduate all the rest show no significant differences. 
